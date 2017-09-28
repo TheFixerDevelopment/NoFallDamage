@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TheFixerDevelopment/NoFallDamage
+branches:
+- master
+projects:
+  Unknown_v1 (2):
+    path: Unknown_v1 (2)/
+  NoFallDamage:
+    path: ""
+...
