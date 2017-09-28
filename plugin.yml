@@ -1,0 +1,12 @@
+  name: NoFallDamage
+  main: thebigsmileXD\NoFallDamage\Main
+  version: 0.0.1
+  api: 1.0.0
+  load: POSTWORLD
+  prefix: "NoFallDamage"
+  authors: [thebigsmileXD]
+  description: "Disable fall damage"
+  permissions:
+    nofalldamage:
+      description: doesnt get fall damage
+      default: op
