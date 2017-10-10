@@ -1,6 +1,6 @@
-  name: NoFallDamage
+  name: NoFallDamagePE
   main: thebigsmileXD\NoFallDamage\Main
-  version: 0.0.2-ALPHA9
+  version: 0.0.2-1
   api: [3.0.0-ALPHA8, 3.0.0, 3.0.0-ALPHA9]
   load: POSTWORLD
   prefix: "NoFallDamage"
